@@ -1,0 +1,20 @@
+{
+  "author": "Johan BLEUZEN <johan@waest.com> (http://www.waest.com)",
+  "name": "SVGPathConverter",
+  "version": "0.0.1",
+  "description": "Convert SVG tags into path",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Waest/SVGPathConverter"
+  },
+  "main": "svgPathConverter.js",
+  "dependencies": {
+    "xml-mapping": "~1.5.0",
+    "glob": "3.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD"
+}
